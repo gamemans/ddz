@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\mj\manager\MsgManager.cs">
+    <Files>
+      <File FileName="Assets\mj\codetst\test.cs" Line="17" Column="4" />
+      <File FileName="Assets\mj\manager\MsgManager.cs" Line="518" Column="3" />
+      <File FileName="Assets\Scripts\SmartCard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Card\CardSprite.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\handcard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Card\HandCards.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Deck.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CreatePokePrefab.cs" Line="1" Column="1" />
+      <File FileName="Assets\mj\mjtable\table_main.cs" Line="1" Column="1" />
+      <File FileName="f:\down\myddz7\myddz\Assets\Scripts\SimpleSmartCard.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/brx/myddz/Assets/Editor/ImagegSlicer.cs" line="11" column="1" />
+      <Breakpoint file="F:\down\myddz_1\myddz\Assets\Scripts\UI\handcard.cs" line="40" column="1" />
+      <Breakpoint file="F:\down\myddz_1\myddz\Assets\Scripts\UI\handcard.cs" line="41" column="1" />
+      <Breakpoint file="/Users/brx/Downloads/myddz/Assets/Scripts/GameController.cs" line="290" column="1" />
+      <Breakpoint file="/Users/brx/Downloads/myddz/Assets/Scripts/UI/Interaction.cs" line="136" column="1" />
+      <Breakpoint file="/Users/brx/Downloads/myddz/Assets/Scripts/UI/Interaction.cs" line="148" column="1" />
+      <Breakpoint file="F:\down\myddz7\myddz\Assets\Scripts\CreatePokePrefab.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
